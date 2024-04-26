@@ -1,0 +1,11 @@
+* {
+  background-color: black;
+  cursor: pointer;
+  border: 1px solid white;
+  color: green;
+  background: #07f20b;
+  background-color: #4eff2b;
+  background: #07f20b;
+  background: -webkit-linear-gradient(to right, #07f20b, #4eff2b);
+  background: linear-gradient(to right, #07f20b, #4eff2b);
+}
